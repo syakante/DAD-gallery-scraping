@@ -1,4 +1,4 @@
-Collection of python webscrapers.
+Collection of python webscrapers to collect data from the Do Art Daily website.
 
 # namescraper.py
 
